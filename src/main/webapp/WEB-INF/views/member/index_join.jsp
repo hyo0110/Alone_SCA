@@ -167,7 +167,7 @@
 					}
 				}
 			}
-		console.log("안돼");
+		console.log("안돼1");
 		alert("누락된 곳이 있거나 틀린곳이 없는지 확인해주세요.");
 		return false;
 		}
